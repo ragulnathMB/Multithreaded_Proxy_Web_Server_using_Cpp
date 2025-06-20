@@ -6,7 +6,7 @@
 [![Multithreading](https://img.shields.io/badge/Feature-Multithreaded-green)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A high-performance, multithreaded HTTP proxy server built from scratch in **C++**, designed using **system design principles** and **modern C++ best practices**. This project features efficient request handling using **a custom thread pool**, modular design, **LFU/LRU caching**, **IP/domain blacklisting**, **basic authentication**, and **thread-safe logging**.
+A high-performance, multithreaded HTTP proxy server built from scratch in **C++**, designed using **system design principles** and **modern C++ best practices**. This project features efficient request handling using **a custom thread pool**, modular design, **LFU/LRU caching**, **IP/domain blacklisting**, **basic authentication**, and **thread-safe logging**.[Click here for Demo Video](https://www.youtube.com/watch?v=OSm4GZx7ZQQ)
 
 > ✅ **Strategy Pattern** used for pluggable caching strategies (LFU/LRU)  
 > ✅ **Singleton Pattern** for thread-safe logging

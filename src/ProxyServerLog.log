@@ -41,3 +41,34 @@
 [timeStamp: 2025-06-20 17:37:01][INFO] : Cache hit for host: example.com (IP: 127.0.0.1)
 [timeStamp: 2025-06-20 17:37:01][INFO] : Received request from IP: 127.0.0.1
 [timeStamp: 2025-06-20 17:37:01][INFO] : Cache hit for host: example.com (IP: 127.0.0.1)
+[timeStamp: 2025-06-20 17:49:18][INFO] : Initializing ThreadPool with 10 threads.
+[timeStamp: 2025-06-20 17:49:18][DEBUG] : Worker thread 0 started.
+[timeStamp: 2025-06-20 17:49:18][DEBUG] : Worker thread 2 started.
+[timeStamp: 2025-06-20 17:49:18][DEBUG] : Worker thread 1 started.
+[timeStamp: 2025-06-20 17:49:18][INFO] : ThreadPool initialization complete.
+[timeStamp: 2025-06-20 17:49:18][DEBUG] : Worker thread 7 started.
+[timeStamp: 2025-06-20 17:49:18][DEBUG] : Worker thread 4 started.
+[timeStamp: 2025-06-20 17:49:18][DEBUG] : Worker thread 5 started.
+[timeStamp: 2025-06-20 17:49:18][DEBUG] : Worker thread 6 started.
+[timeStamp: 2025-06-20 17:49:18][DEBUG] : Worker thread 3 started.
+[timeStamp: 2025-06-20 17:49:18][DEBUG] : Worker thread 8 started.
+[timeStamp: 2025-06-20 17:49:18][DEBUG] : Worker thread 9 started.
+[timeStamp: 2025-06-20 17:49:18][INFO] : Proxy server started on port: 8080
+[timeStamp: 2025-06-20 17:49:36][DEBUG] : New task enqueued. Total pending tasks: 1
+[timeStamp: 2025-06-20 17:49:36][DEBUG] : Worker thread 0 is executing a task.
+[timeStamp: 2025-06-20 17:49:36][DEBUG] : New task enqueued. Total pending tasks: 1
+[timeStamp: 2025-06-20 17:49:36][INFO] : Received request from IP: 127.0.0.1
+[timeStamp: 2025-06-20 17:49:36][DEBUG] : Worker thread 2 is executing a task.
+[timeStamp: 2025-06-20 17:49:36][DEBUG] : New task enqueued. Total pending tasks: 1
+[timeStamp: 2025-06-20 17:49:36][INFO] : Cache miss for host: example.com (IP: 127.0.0.1)
+[timeStamp: 2025-06-20 17:49:36][INFO] : Received request from IP: 127.0.0.1
+[timeStamp: 2025-06-20 17:49:36][INFO] : Cache miss for host: example.com (IP: 127.0.0.1)
+[timeStamp: 2025-06-20 17:49:36][DEBUG] : Worker thread 1 is executing a task.
+[timeStamp: 2025-06-20 17:49:36][INFO] : Received request from IP: 127.0.0.1
+[timeStamp: 2025-06-20 17:49:36][INFO] : Cache miss for host: youtube.com (IP: 127.0.0.1)
+[timeStamp: 2025-06-20 17:49:38][DEBUG] : Fetched response from server: example.com
+[timeStamp: 2025-06-20 17:49:38][DEBUG] : Fetched response from server: example.com
+[timeStamp: 2025-06-20 17:49:38][INFO] : Cached response for host: example.com
+[timeStamp: 2025-06-20 17:49:38][INFO] : Cached response for host: example.com
+[timeStamp: 2025-06-20 17:49:39][DEBUG] : Fetched response from server: youtube.com
+[timeStamp: 2025-06-20 17:49:39][INFO] : Cached response for host: youtube.com
