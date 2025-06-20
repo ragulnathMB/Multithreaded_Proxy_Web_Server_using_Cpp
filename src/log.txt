@@ -1,0 +1,25 @@
+[timeStamp: 2025-06-20 16:45:16][DEBUG] : New task enqueued. Total pending tasks: 1
+[timeStamp: 2025-06-20 16:45:16][DEBUG] : Worker thread 3 is executing a task.
+[timeStamp: 2025-06-20 16:45:16][DEBUG] : New task enqueued. Total pending tasks: 1
+[timeStamp: 2025-06-20 16:45:16][INFO] : Received request from IP: 127.0.0.1
+[timeStamp: 2025-06-20 16:45:16][INFO] : Cache hit for host: example.com (IP: 127.0.0.1)
+[timeStamp: 2025-06-20 16:45:16][DEBUG] : New task enqueued. Total pending tasks: 1
+[timeStamp: 2025-06-20 16:45:16][DEBUG] : Worker thread 8 is executing a task.
+[timeStamp: 2025-06-20 16:45:16][DEBUG] : Worker thread 3 is executing a task.
+[timeStamp: 2025-06-20 16:45:16][INFO] : Received request from IP: 127.0.0.1
+[timeStamp: 2025-06-20 16:45:16][INFO] : Cache hit for host: example.com (IP: 127.0.0.1)
+[timeStamp: 2025-06-20 16:45:16][INFO] : Received request from IP: 127.0.0.1
+[timeStamp: 2025-06-20 16:45:16][INFO] : Cache hit for host: youtube.com (IP: 127.0.0.1)
+[timeStamp: 2025-06-20 16:45:40][INFO] : Initializing ThreadPool with 10 threads.
+[timeStamp: 2025-06-20 16:45:40][DEBUG] : Worker thread 0 started.
+[timeStamp: 2025-06-20 16:45:40][DEBUG] : Worker thread 2 started.
+[timeStamp: 2025-06-20 16:45:40][DEBUG] : Worker thread 4 started.
+[timeStamp: 2025-06-20 16:45:40][DEBUG] : Worker thread 3 started.
+[timeStamp: 2025-06-20 16:45:40][INFO] : ThreadPool initialization complete.
+[timeStamp: 2025-06-20 16:45:40][DEBUG] : Worker thread 1 started.
+[timeStamp: 2025-06-20 16:45:40][DEBUG] : Worker thread 5 started.
+[timeStamp: 2025-06-20 16:45:40][DEBUG] : Worker thread 6 started.
+[timeStamp: 2025-06-20 16:45:40][DEBUG] : Worker thread 7 started.
+[timeStamp: 2025-06-20 16:45:40][DEBUG] : Worker thread 8 started.
+[timeStamp: 2025-06-20 16:45:40][DEBUG] : Worker thread 9 started.
+[timeStamp: 2025-06-20 16:45:40][INFO] : Proxy server started on port: 8080
